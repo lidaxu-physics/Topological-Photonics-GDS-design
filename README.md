@@ -1,6 +1,6 @@
 # Topological-Photonics-GDS-design
 
-> **2025 version.** Forked from Supra. Requires **Python 3.12** and **gdsfactory `~=9.14.0`** (tested with 9.14.2). The **Ligentec AN800 PDK** (`an800-gdsfactory`) is required separately for the edge-coupler design and is **not included in this repository** — obtain it from the foundry.
+> **2025 version.** Based on [SupratikSarkar/Topological-Photonics-GDS-design](https://github.com/SupratikSarkar/Topological-Photonics-GDS-design), with my own modifications. Requires **Python 3.12** and **gdsfactory `~=9.14.0`** (tested with 9.14.2). The **Ligentec AN800 PDK** (`an800-gdsfactory`) is required separately for the edge-coupler design and is **not included in this repository** — obtain it from the foundry.
 
 Python code that uses **gdsfactory** to generate GDS chip-design files for
 topological photonics lattices (both integer and anomalous quantum Hall),
