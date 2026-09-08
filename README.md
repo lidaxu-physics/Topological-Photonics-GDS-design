@@ -4,10 +4,10 @@
 
 The repository contains Python codes that use GDSfactory to generate GDS chip design files for topological photonics lattices (both integer and anomalous quantum Hall) found in the following literature:
 
-1. Sunil Mittal _et al_. A topological source of quantum light. Nature **561**, 502–506 (2018). DOI:[10.1038/s41586-018-0478-3](https://www.nature.com/articles/s41586-018-0478-3)
-2. Christopher J. Flower _et al_., Observation of topological frequency combs. Science **384**, 1356-1361 (2024). DOI:[10.1126/science.ado0053](https://www.science.org/doi/full/10.1126/science.ado0053)
-3. Lida Xu _et al_., On-chip multi-timescale spatiotemporal optical synchronization. Science Advances **11**, eadw7696 (2025). DOI:[10.1126/sciadv.adw7696](https://www.science.org/doi/full/10.1126/sciadv.adw7696)
-4. Mahmoud Jalali Mehrabad _et al_., Multi-timescale frequency-phase matching for high-yield nonlinear photonics. Science **390**, 612-616 (2025). DOI:[10.1126/science.adu6368](https://www.science.org/doi/full/10.1126/science.adu6368)
+1. Sunil Mittal _et al_. A topological source of quantum light. **Nature** **561**, 502–506 (2018). DOI:[10.1038/s41586-018-0478-3](https://www.nature.com/articles/s41586-018-0478-3)
+2. Christopher J. Flower _et al_., Observation of topological frequency combs. **Science** **384**, 1356-1361 (2024). DOI:[10.1126/science.ado0053](https://www.science.org/doi/full/10.1126/science.ado0053)
+3. Lida Xu _et al_., On-chip multi-timescale spatiotemporal optical synchronization. **Science Advances** **11**, eadw7696 (2025). DOI:[10.1126/sciadv.adw7696](https://www.science.org/doi/full/10.1126/sciadv.adw7696)
+4. Mahmoud Jalali Mehrabad _et al_., Multi-timescale frequency-phase matching for high-yield nonlinear photonics. **Science** **390**, 612-616 (2025). DOI:[10.1126/science.adu6368](https://www.science.org/doi/full/10.1126/science.adu6368)
 
 The file _QHE lattice - grating couplers.ipynb_ goes through the following steps for chip design:
 
